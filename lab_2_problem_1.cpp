@@ -1,3 +1,6 @@
+//Programmer: Zaina Qasim
+//Purpose: To input 4 numbers from the user and calculate the output for the given formulae
+
 #include <iostream>
 #include <cmath>
 using namespace std;
