@@ -1,8 +1,7 @@
 
 // Programmer: Zaina Qasim
 
-// This template contains some syntax 
-// that you will need to correct first
+// Program to accept a number from the user and output is square and cube
 
 #include <iostream>
 
