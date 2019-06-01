@@ -1,3 +1,5 @@
+//Programmer: Zaina Qasim
+//Purpose: TO accept the coordinates of a point and output its quadrant
 
 #include <iostream>
 using namespace std;
