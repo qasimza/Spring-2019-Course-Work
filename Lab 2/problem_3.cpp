@@ -1,3 +1,5 @@
+//Programmer: Zaina Qasim
+//Purpose: To accpet richter scale reading from user and output damage intensity based on range
 
 #include <iostream>
 using namespace std;
@@ -5,7 +7,7 @@ using namespace std;
 int main()
 {
     double r;
-	cout << "Enter RIchter Scale Number: ";
+	cout << "Enter Richter Scale Number: ";
 	cin >> r;
 	cout << endl;
 	if (r < 5.0)
